@@ -2,8 +2,7 @@
 # godist
 
 Some simple scripts to distribute tools written in Go, used by
-[modd](https://github.com/cortesi/modd) and
-[devd](https://github.com/cortesi/devd).
+[modd](https://github.com/Unity-Billal-mesloub/modd) 
 
 Note that these scripts depend on the structure of modd and devd, and although
 they can easily be generalized, they're not really meant to be portable to
@@ -12,4 +11,4 @@ others.
 
 The following external tools are required:
 
-    https://github.com/samertm/homebrew-go-resources
+    https://github.com/Unity-Billal-mesloub/homebrew-go-resources
